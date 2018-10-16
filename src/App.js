@@ -8,7 +8,7 @@ import {
 } from 'rsuite';
 import './App.scss';
 
-// Components;
+// Components
 
 
 class App extends Component {
